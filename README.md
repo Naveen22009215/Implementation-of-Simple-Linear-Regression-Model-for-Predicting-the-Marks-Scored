@@ -88,7 +88,8 @@ Values of Y prediction
 ![](/array%20y%20prediction.png)
 
 Array values of Y test
-![](/y%20test.png)
+ 
+ ![](/y%20test.png)
 
 Training Set Graph
 ![](/training%20set%20graph.png)
@@ -97,7 +98,8 @@ Test Set Graph
 ![](/test%20set%20graph.png)
 
 Values of MSE, MAE and RMSE
-![](/values.png)
+  
+  ![](/values.png)
 
 
 
