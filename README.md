@@ -68,13 +68,13 @@ print("RMSE= ",rmse)
 
 ## Output:
 df.head()
-![df.head()](/df.head.png)
+![](/df.head.png)
 
 df.tail()
-![df.tail()](/df%20tail.png)
+![](/df%20tail.png)
 
 Array value of X
-![Array](/array%20x.png)
+![](/array%20x.png)
 
 Array value of Y
 ![y](/array%20y.png)
